@@ -234,3 +234,7 @@ hr {
 .bg-stl {
     background-color: rgb(0, 0, 0, .8);
 }
+
+.card-title {
+    color: black !important;
+}
